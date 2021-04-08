@@ -15,6 +15,10 @@ The time rows box colour will change dynamically depending on the time of day. I
 ## Usage
 
 
+Site is live on Github Pages https://shanecurtis84.github.io/Work-Day-Scheduler/
+
+   ![Sceenshot 1](https://github.com/ShaneCurtis84/Work-Day-Scheduler/blob/main/assets/images/screenshot1.PNG)
+
 
 
 
